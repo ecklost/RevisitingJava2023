@@ -1,2 +1,2 @@
 # RevisitingJava2023
-Revisiting Jave because I haven't done it in a while
+Revisiting Java because I haven't done it in a while
